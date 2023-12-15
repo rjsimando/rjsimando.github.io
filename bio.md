@@ -3,30 +3,31 @@ layout: page
 title: Bio
 permalink: /bio/
 ---
-<i class="fa-solid fa-screwdriver-wrench"></i> &nbsp; **TECHNICAL PROFICIENCIES**
+<i class="fa-solid fa-screwdriver-wrench"></i> &nbsp; **TECHNICAL EXPERIENCES**
 
-*Languages*: Bash, C, CSS, HTML, Python, R <br>
-*Technologies*: Bioinformatics pipeline (fastqc, multiqc, cutadapt, bowtie2, samtools, metaphlan,
-metaxa2, phyloseq, qiime2), <br>
-&emsp; Canva, CellDesigner, Gephi, Github Pages (Jekyll), Google Colab, Maple, Mathematica, MATLAB, Microsoft Office, <br>
-&emsp; Overleaf (LaTeX), Power BI <br>
-*Source Control*: Git, Subversion <br>
-*Build Tools*: Snakemake, Docker, WDL <br>
-*Cloud Technologies*: Terra.Bio, GCP <br>
-*Operating Systems*: Windows, Linux (VM, WSL)
+*Lab techniques*: cell passaging/splitting, fluorescence calcium imaging, cell volume
+measurement <br> 
+tissue sectioning using microtome and cryostat,
+hematoxylin and eosin staining, immunostaining, brightfield and confocal microscopy <br> 
+*Data organizing, graphing, statistical tools*: Microsoft Office, TIDA, GraphPad Prism, SPSS,
+SigmaPlot <br>
+*Image analysis/processing*: QuPath, ImageJ/Fiji <br>
+
 
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
 
-Research Assistant, **Bioinformatics Lab**, De La Salle University &emsp; 2023- <br>
-&emsp; Mentor: Dr. Anish M.S. Shrestha <br>
-&emsp; Tasks: Bioinformatics pipeline of metagenomic sequences, Fine-tuning of protein
-language model
+Lab Student/Intern, Department of Anatomy and Neurosciences, Section of
+Clinical Neuroanatomy and Biobanking, Amsterdam UMC, Location VUmc &emsp; Mar-Aug
+2023 <br>
+&emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
+&emsp; VU Supervisor: Dr. Wilma van de Berg
 
-Research Assistant, **Systems & Computational Biology Unit**, De La Salle University &emsp; 2021- <br>
-&emsp; Mentor: Prof. Angelyn R. Lao <br>
-&emsp; Tasks: Mathematical modeling of metabolic pathways, Network analysis, Systematic
-review, <br> 
-&emsp; &emsp; Imputation tool for single-cell RNA-Seq data, Microbiome analysis
+Lab Student/Intern, Study Group: In Vitro Electrophysiology/Ion Channel
+Research, Department of Ophthalmology, Experimental Ophthalmology, Charité –
+Universitätsmedizin Berlin Campus Virchow-Klinikum &emsp; Feb 2023;
+Jan-Mar
+2022 <br>
+&emsp; Supervisor: Dr. Stefan Mergler
 
 System Engineer, i-Bridge Systems Japan Inc. &emsp; 2008-2011 <br>
 &emsp; Tasks: Firmware programming, QA testing
