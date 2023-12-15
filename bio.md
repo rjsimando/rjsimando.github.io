@@ -29,8 +29,19 @@ Jan-Mar
 2022 <br>
 &emsp; Supervisor: Dr. Stefan Mergler
 
-System Engineer, i-Bridge Systems Japan Inc. &emsp; 2008-2011 <br>
-&emsp; Tasks: Firmware programming, QA testing
+Community Program Physician, Department of Preventive and Community
+Medicine, St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
+2019 <br>
+&emsp; Main Task: Supervise groups of medical interns with their health
+promotion and education projects and activities for the partner community
+
+Medical Intern, St. Luke’s Medical Center; Jun 2017-
+Jun 2018
+
+Student Researcher, Research Management Office, St. Luke's Medical Center
+College of Medicine; May-Aug
+2015 <br>
+&emsp; Mentor:  Prof. Maria Nilda M. Muñoz
 
 <br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **PROFESSIONAL MEMBERSHIPS**
 
