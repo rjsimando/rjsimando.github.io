@@ -82,10 +82,11 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 **Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’** <br>
 &emsp; coordinated by Université de Bordeaux (1 out 18 students worldwide)
 
-&emsp; Year 2: Vrije Universiteit Amsterdam (The Netherlands) &emsp; 2022-2023 <br>
-&emsp; &emsp; Courses: Advanced Clinical Neurosciences, Functional Brain Imaging, Neuro- and Psychopharmacology, <br>
-&emsp; &emsp; &emsp; &emsp; Experimental and Clinical Neuroendocrinology, Neurophilosophy and Ethics, and Career and Academic Skills and Portfolio <br> 
-&emsp; &emsp; Final Year Project/Thesis: Localization and quantification of phosphorylated alphasynuclein in the skin of controls and <br> 
+&emsp; **Year 2**: Vrije Universiteit Amsterdam (The Netherlands) &emsp; 2022-2023 <br>
+&emsp; &emsp; **Courses**: Advanced Clinical Neurosciences, Functional Brain Imaging, Neuro- and Psychopharmacology, <br>
+&emsp; &emsp; &emsp; &emsp; Experimental and Clinical Neuroendocrinology, Neurophilosophy and Ethics, and Career and Academic Skills and <br>
+&emsp; &emsp; &emsp; &emsp; Portfolio <br> 
+&emsp; &emsp; **Final Year Project/Thesis**: Localization and quantification of phosphorylated alphasynuclein in the skin of controls and <br> 
 &emsp; &emsp; &emsp; &emsp; synucleinopathy cases <br>
 &emsp; &emsp; &emsp; &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
 &emsp; &emsp; &emsp; &emsp; VU Supervisor: Dr. Wilma van de Berg
