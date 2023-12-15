@@ -79,12 +79,16 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 
 <br> <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
-De La Salle University &emsp; 2022- <br>
-&emsp; **MS Mathematics** (*took extra units*) <br>
-&emsp; &emsp; Units: Advanced Calculus, Set Theory and Logic, Complex Analysis, Topology, Advanced
-Linear Algebra, Bioinformatics, <br> 
-&emsp; &emsp; &emsp; &emsp; Deep Learning, Bayesian Statistics, Statistical Methods <br>
-&emsp; &emsp; Member, Systems & Computational Biology Research Unit – Mentor: Prof. Angelyn R. Lao
+**Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’** <br>
+&emsp; coordinated by Université de Bordeaux (1 out 18 students worldwide)
+
+&emsp; Year 2: Vrije Universiteit Amsterdam (The Netherlands) &emsp; 2022-2023 <br>
+&emsp; &emsp; Courses: Advanced Clinical Neurosciences, Functional Brain Imaging, Neuro- and Psychopharmacology, <br>
+&emsp; &emsp; &emsp; &emsp; Experimental and Clinical Neuroendocrinology, Neurophilosophy and Ethics, and Career and Academic Skills and Portfolio <br> 
+&emsp; &emsp; Final Year Project/Thesis: Localization and quantification of phosphorylated alphasynuclein in the skin of controls and <br> 
+&emsp; &emsp; &emsp; &emsp; synucleinopathy cases <br>
+&emsp; &emsp; &emsp; &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
+&emsp; &emsp; &emsp; &emsp; VU Supervisor: Dr. Wilma van de Berg
 
 De La Salle University &emsp; 2019-2021 <br>
 &emsp; **MS Physics** <br>
