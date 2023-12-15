@@ -47,7 +47,15 @@ College of Medicine &emsp; May-Aug
 2015 <br>
 &emsp; Mentor:  Prof. Maria Nilda M. Muñoz
 
-<br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **PROFESSIONAL MEMBERSHIPS**
+<br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **TRAINING COURSES**
+
+Introduction to Computational Neuroscience for the Neurasmus Program &emsp; Jun 30-
+Jul 3, 2022 <br> 
+&emsp; Course Coordinator: Dr. Richard Naud, University of Ottawa <br> 
+Properties of the calcium signal in ocular cell types. <br> 
+Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
+2022 <br> 
+&emsp; Professor: Dr. Stefan Mergler, Charité – Universitätsmedizin Berlin
 
 2023 &emsp; **[Society for Mathematical Biology](https://www.smb.org/)**, Huntington, WV <br>
 2022 &emsp; **[American Society for Microbiology](https://asm.org/)**, Washington, DC <br>
