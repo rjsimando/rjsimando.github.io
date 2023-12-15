@@ -97,22 +97,15 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 &emsp; &emsp; &emsp; &emsp; Neuropathophysiology, Neurotransmitter Systems: Pharmacology and Signal Transduction, <br> 
 &emsp; &emsp; &emsp; &emsp; Neuronal Systems, and Clinical Neuroscience <br> 
 &emsp; &emsp; **Lab Reports**: L-ascorbic acid induces intracellular calcium increase via TRPV1 and TRPM8 activity in <br>
-&emsp; &emsp; &emsp; &emsp; human uveal melanoma cells, <br>
+&emsp; &emsp; &emsp; &emsp; human uveal melanoma cells; <br>
 &emsp; &emsp; &emsp; &emsp; Functional expression of TRPV4 in human uveal melanoma cell line 92.1 <br> 
 &emsp; &emsp; &emsp; &emsp; Supervisor: Dr. Stefan Mergler
 
-De La Salle University &emsp; 2019-2021 <br>
-&emsp; **MS Physics** <br>
-&emsp; &emsp; Thesis: Weak deflection angle and shadow of an extended uncertainty principle black hole
-with dark matter halo <br>
-&emsp; &emsp; Member, Theoretical Physics Research Group – Mentor: Prof. Emmanuel T. Rodulfo <br>
-&emsp; &emsp; Physics Representative, Graduate Student Council, College of Science
+St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br>
+&emsp; **Doctor of Medicine** (*board certified*)
 
-St. Luke's Medical Center College of Medicine &emsp; 2013-2018 <br>
-&emsp; **Doctor of Medicine** (*board certified*) <br>
-&emsp; &emsp; Student Researcher, Research Management Office – Mentor: Prof. Maria Nilda M. Muñoz
-
-De La Salle University &emsp; 2004-2008 <br>
-&emsp; **BS Computer Science, Major in Computer Systems Engineering** <br>
-&emsp; &emsp; Awards: *cum laude* <br>
-&emsp; &emsp; Thesis: Vision-based intelligent system for traffic analysis – Mentor: Mr. Clement Y. Ong
+Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
+&emsp; **B.S., Biology** <br>
+&emsp; &emsp; **Thesis**: Normoglycemic potential of Citrus aurantifolia (lime) pericarp extract on alloxan monohydrate-induced <br>
+&emsp; &emsp; &emsp; &emsp; diabetic Institute of Cancer Research (ICR) mice <br>
+&emsp; &emsp; &emsp; &emsp; Adviser: Agnes Salvadora
