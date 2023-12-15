@@ -53,30 +53,30 @@ Introduction to Computational Neuroscience for the Neurasmus Program &emsp; Jun 
 Jul 3, 2022 <br> 
 &emsp; Course Coordinator: Dr. Richard Naud, University of Ottawa
 
-Properties of the calcium signal in ocular cell types. Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
+Properties of the calcium signal in ocular cell types. <br>
+Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 2022 <br> 
 &emsp; Professor: Dr. Stefan Mergler, Charité – Universitätsmedizin Berlin
 
-<br> <i class="fa-solid fa-person-chalkboard"></i> &nbsp; **PRESENTATION**
+<br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **AWARDS & SCHOLARSHIP GRANTS**
 
-2023 &emsp; **[Society for Mathematical Biology](https://www.smb.org/)**, Huntington, WV <br>
-2022 &emsp; **[American Society for Microbiology](https://asm.org/)**, Washington, DC <br>
-2022 &emsp; **[Society for Industrial and Applied Mathematics](https://www.siam.org/)**, Philadelphia, PA <br>
-2019 &emsp; **[Philippine Medical Association](https://www.philippinemedicalassociation.org/)**, North Avenue, Quezon City <br>
-2019 &emsp; **[Manila Medical Society](https://www.facebook.com/manilamedsoc/)**, Sampaloc, Manila
-
-<br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **FELLOWSHIPS & AWARDS**
-
-2022 &emsp; **MS Graduate Research Fellow, DOST-SEI ASTHRDP<sup>*</sup> Career Incentive Program** hosted by Systems &
-Computational <br>
-&emsp; Biology Unit, De La Salle University (covers P59,802 or ~1,050 USD monthly wage) <br>
-2018 &emsp; **DOST-SEI ASTHRDP Graduate Scholarship** (full scholarship, covers tuition, P25,000 or ~440 USD
-monthly stipend, and <br>
-&emsp; travel, insurance, publication allowances for my MS Physics study) <br>
-2014 &emsp; **Academic Scholarship for Doctor of Medicine**, St. Luke’s Medical Center College of Medicine
-(full scholarship, covers <br>
-&emsp; tuition and books for my MD study) <br>
-<sup>*</sup> _Department of Science and Technology - Science Education Institute Accelerated Science and Technology Human Resource Development Program_
+2021-2023 &emsp; **Erasmus Mundus Joint Master’s Degree Scholarship** (full scholarship – covers tuition fees, <br> 
+&emsp; insurance, monthly allowance, contribution to travel, installation, and any other type of costs) <br>
+2018 &emsp; **Top 1 and Dean’s Lister, 5th year** – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
+2018 &emsp; **Most Outstanding Medical Intern**, St. Luke’s Medical Center <br>
+2018 &emsp; **Most Outstanding Intern in Internal Medicine**, St. Luke’s Medical Center <br>
+2018 &emsp; **Most Outstanding Intern in Preventive and Community Medicine**, St. Luke’s Medical Center <br>
+2017 &emsp; **Top 1 and Dean’s Lister, 4th year** – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
+2013 &emsp; **Entrance Scholarship**, St. Luke’s Medical Center College of Medicine <br>
+&emsp; (full scholarship – covers tuition during my first year in the M.D. program) <br>
+2013 &emsp; **Magna cum laude** (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%) <br>
+&emsp; Bachelor of Science in Biology, Ateneo de Naga University <br>
+2013 &emsp; **Pillars Silver Medallion for Academic Excellence** (ranked 2nd out of 979 students of the graduating class of 2013) <br>
+&emsp; Ateneo de Naga University <br>
+2013 &emsp; **Distinction in Bachelor of Science in Biology** (based on academic achievement and service to the department) <br>
+&emsp; Ateneo de Naga University <br>
+2009 &emsp; **Entrance Scholarship**, Ateneo de Naga University <br>
+&emsp; (full scholarship – covers tuition for my entire B.S., Biology education)
 
 <br> <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
