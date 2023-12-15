@@ -61,20 +61,20 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 <br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **AWARDS & SCHOLARSHIP GRANTS**
 
 2021-2023 &emsp; **Erasmus Mundus Joint Master’s Degree Scholarship** (full scholarship – covers tuition fees, <br> 
-&emsp; &emsp; &emsp; insurance, monthly allowance, contribution to travel, installation, and any other type of costs) <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; insurance, monthly allowance, contribution to travel, installation, and any other type of costs) <br>
 2018 &emsp; &emsp; **Top 1 and Dean’s Lister, 5th year** – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
 2018 &emsp; &emsp; **Most Outstanding Medical Intern**, St. Luke’s Medical Center <br>
 2018 &emsp; &emsp; **Most Outstanding Intern in Internal Medicine**, St. Luke’s Medical Center <br>
 2018 &emsp; &emsp; **Most Outstanding Intern in Preventive and Community Medicine**, St. Luke’s Medical Center <br>
 2017 &emsp; &emsp; **Top 1 and Dean’s Lister, 4th year** – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
 2013 &emsp; &emsp; **Entrance Scholarship**, St. Luke’s Medical Center College of Medicine (full scholarship – covers tuition during my first year <br>
-&emsp; &emsp; &emsp; in the M.D. program) <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; in the M.D. program) <br>
 2013 &emsp; &emsp; **Magna cum laude** (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%), <br> 
-&emsp; &emsp; &emsp; Bachelor of Science in Biology, Ateneo de Naga University <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; Bachelor of Science in Biology, Ateneo de Naga University <br>
 2013 &emsp; &emsp; **Pillars Silver Medallion for Academic Excellence** (ranked 2nd out of 979 students of the graduating class of 2013) <br>
-&emsp; &emsp; &emsp; Ateneo de Naga University <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
 2013 &emsp; &emsp; **Distinction in Bachelor of Science in Biology** (based on academic achievement and service to the department) <br>
-&emsp; &emsp; &emsp; Ateneo de Naga University <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
 2009 &emsp; &emsp; **Entrance Scholarship**, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology education)
 
 <br> <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
