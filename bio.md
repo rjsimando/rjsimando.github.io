@@ -91,6 +91,16 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 &emsp; &emsp; &emsp; &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
 &emsp; &emsp; &emsp; &emsp; VU Supervisor: Dr. Wilma van de Berg
 
+&emsp; **Year 1**: Charité – Universitätsmedizin Berlin (Germany) &emsp; 2021-2022 <br>
+&emsp; &emsp; **Modules**: Nervous System: Structure, Function, and Development, Neurophysiology, Data and Statistics, <br>
+&emsp; &emsp; &emsp; &emsp; Critical Thinking in Translational Medicine, Lab Rotations and Method Lectures,  <br>
+&emsp; &emsp; &emsp; &emsp; Neuropathophysiology, Neurotransmitter Systems: Pharmacology and Signal Transduction, <br> 
+&emsp; &emsp; &emsp; &emsp; Neuronal Systems, and Clinical Neuroscience <br> 
+&emsp; &emsp; **Lab Reports**: L-ascorbic acid induces intracellular calcium increase via TRPV1 and TRPM8 activity in <br>
+&emsp; &emsp; &emsp; &emsp; human uveal melanoma cells, <br>
+&emsp; &emsp; &emsp; &emsp; Functional expression of TRPV4 in human uveal melanoma cell line 92.1 <br> 
+&emsp; &emsp; &emsp; &emsp; Supervisor: Dr. Stefan Mergler
+
 De La Salle University &emsp; 2019-2021 <br>
 &emsp; **MS Physics** <br>
 &emsp; &emsp; Thesis: Weak deflection angle and shadow of an extended uncertainty principle black hole
