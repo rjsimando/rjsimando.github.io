@@ -57,6 +57,8 @@ Properties of the calcium signal in ocular cell types. Transient receptor potent
 2022 <br> 
 &emsp; Professor: Dr. Stefan Mergler, Charité – Universitätsmedizin Berlin
 
+<br> <i class="fa-solid fa-person-chalkboard"></i> &nbsp; **PRESENTATION**
+
 2023 &emsp; **[Society for Mathematical Biology](https://www.smb.org/)**, Huntington, WV <br>
 2022 &emsp; **[American Society for Microbiology](https://asm.org/)**, Washington, DC <br>
 2022 &emsp; **[Society for Industrial and Applied Mathematics](https://www.siam.org/)**, Philadelphia, PA <br>
