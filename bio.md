@@ -51,9 +51,9 @@ College of Medicine &emsp; May-Aug
 
 Introduction to Computational Neuroscience for the Neurasmus Program &emsp; Jun 30-
 Jul 3, 2022 <br> 
-&emsp; Course Coordinator: Dr. Richard Naud, University of Ottawa <br> 
-Properties of the calcium signal in ocular cell types. <br> 
-Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
+&emsp; Course Coordinator: Dr. Richard Naud, University of Ottawa
+
+Properties of the calcium signal in ocular cell types. Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 2022 <br> 
 &emsp; Professor: Dr. Stefan Mergler, Charité – Universitätsmedizin Berlin
 
