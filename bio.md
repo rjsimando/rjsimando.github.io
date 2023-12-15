@@ -7,8 +7,9 @@ permalink: /bio/
 
 **Lab Techniques**: Cell passaging/splitting, fluorescence calcium imaging, cell volume
 measurement <br> 
-Tissue sectioning using microtome and cryostat,
-hematoxylin and eosin staining, immunostaining, brightfield and confocal microscopy <br> 
+&emsp; Tissue sectioning using microtome and cryostat,
+hematoxylin and eosin staining, immunostaining, <br> 
+&emsp; brightfield and confocal microscopy <br> 
 **Data Organizing, Graphing, and Statistical Tools**: Microsoft Office, TIDA, GraphPad Prism, SPSS,
 SigmaPlot <br>
 **Image Analysis/Processing**: QuPath, ImageJ/Fiji <br>
