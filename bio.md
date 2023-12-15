@@ -17,29 +17,32 @@ SigmaPlot <br>
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
 
 Lab Student/Intern, Department of Anatomy and Neurosciences, Section of
-Clinical Neuroanatomy and Biobanking, Amsterdam UMC, Location VUmc &emsp; Mar-Aug
+Clinical Neuroanatomy and Biobanking, <br> 
+Amsterdam UMC, Location VUmc &emsp; Mar-Aug
 2023 <br>
 &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
 &emsp; VU Supervisor: Dr. Wilma van de Berg
 
 Lab Student/Intern, Study Group: In Vitro Electrophysiology/Ion Channel
-Research, Department of Ophthalmology, Experimental Ophthalmology, Charité –
+Research, Department of Ophthalmology, <br>
+Experimental Ophthalmology, Charité –
 Universitätsmedizin Berlin Campus Virchow-Klinikum &emsp; Feb 2023;
-Jan-Mar
-2022 <br>
+Jan-Mar 2022 <br>
 &emsp; Supervisor: Dr. Stefan Mergler
 
 Community Program Physician, Department of Preventive and Community
-Medicine, St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
+Medicine, <br> 
+St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
 2019 <br>
 &emsp; Main Task: Supervise groups of medical interns with their health
-promotion and education projects and activities for the partner community
+promotion and education projects and activities for the <br>
+&emsp; partner community
 
-Medical Intern, St. Luke’s Medical Center; Jun 2017-
+Medical Intern, St. Luke’s Medical Center &emsp; Jun 2017-
 Jun 2018
 
 Student Researcher, Research Management Office, St. Luke's Medical Center
-College of Medicine; May-Aug
+College of Medicine &emsp; May-Aug
 2015 <br>
 &emsp; Mentor:  Prof. Maria Nilda M. Muñoz
 
