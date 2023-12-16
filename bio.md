@@ -103,7 +103,7 @@ synucleinopathy cases and controls. Neurasmus Annual Meeting 2023, Georg-August-
 2017 &emsp; &emsp; &emsp; &emsp; Top 1 and Dean’s Lister, 4th year–Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
 2013 &emsp; &emsp; &emsp; &emsp; Entrance Scholarship, St. Luke’s Medical Center College of Medicine (full scholarship – covers tuition <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; during my first year in the M.D. program) <br>
-2013 &emsp; &emsp; &emsp; &emsp; Magna cum laude (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%), <br> 
+2013 &emsp; &emsp; &emsp; &emsp; *Magna cum laude* (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%), <br> 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Bachelor of Science in Biology, Ateneo de Naga University <br>
 2013 &emsp; &emsp; &emsp; &emsp; Pillars Silver Medallion for Academic Excellence (ranked 2nd out of 979 students of the graduating class of 2013) <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
