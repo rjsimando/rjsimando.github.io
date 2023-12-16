@@ -23,9 +23,9 @@ permalink: /bio/
 
 &emsp; *Year 1*: Charité – Universitätsmedizin Berlin (Germany) &emsp; 2021-2022 <br>
 &emsp; &emsp; *Modules*: Nervous System: Structure, Function, and Development, Neurophysiology, Data and Statistics, <br>
-&emsp; &emsp; &emsp; &emsp; Critical Thinking in Translational Medicine, Lab Rotations and Method Lectures,  <br>
-&emsp; &emsp; &emsp; &emsp; Neuropathophysiology, Neurotransmitter Systems: Pharmacology and Signal Transduction, <br> 
-&emsp; &emsp; &emsp; &emsp; Neuronal Systems, and Clinical Neuroscience <br> 
+&emsp; &emsp; &emsp; &emsp; Critical Thinking in Translational Medicine, Neuropathophysiology, <br>
+&emsp; &emsp; &emsp; &emsp; Neurotransmitter Systems: Pharmacology and Signal Transduction, Neuronal Systems, <br> 
+&emsp; &emsp; &emsp; &emsp; Clinical Neuroscience, and Lab Rotations and Method Lectures <br> 
 &emsp; &emsp; *Lab Reports*: L-ascorbic acid induces intracellular calcium increase via TRPV1 and TRPM8 activity in <br>
 &emsp; &emsp; &emsp; &emsp; human uveal melanoma cells; <br>
 &emsp; &emsp; &emsp; &emsp; Functional expression of TRPV4 in human uveal melanoma cell line 92.1 <br> 
