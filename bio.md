@@ -95,10 +95,15 @@ Introduction to Computational Neuroscience for the Neurasmus Program &emsp; Jun 
 Jul 3, 2022 <br> 
 &emsp; Course Coordinator: Dr. Richard Naud, University of Ottawa
 
-Properties of the calcium signal in ocular cell types. <br>
-Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
-2022 <br> 
+Properties of the calcium signal in ocular cell types. Transient receptor potential channels: Relevant for the clinic? <br> 
+&emsp; Apr-May 2022 <br> 
+&emsp; 1.5 hrs/week (6 sessions of lectures and journal club presentations) <br> 
 &emsp; Professor: Dr. Stefan Mergler, Charité – Universitätsmedizin Berlin
+
+<br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **RESEARCH PRESENTATION**
+
+Localization of phosphorylated alpha-synuclein in the skin of clinically-diagnosed and neuropathologically-confirmed <br>
+synucleinopathy cases and controls. Neurasmus Annual Meeting 2023, Georg-August-Universität Göttingen, Germany, Jul 2023.
 
 <br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **AWARDS & SCHOLARSHIP GRANTS**
 
