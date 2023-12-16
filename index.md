@@ -12,7 +12,7 @@ layout: home
 
 .left {
   width: 200 px;
-  text-align: justify;
+  text-align: center;
 }
 
 .right {
