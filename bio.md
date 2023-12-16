@@ -42,7 +42,7 @@ St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br
 
 Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
 &emsp; **B.S., Biology** <br>
-&emsp; &emsp; *Thesis*: Normoglycemic potential of Citrus aurantifolia (lime) pericarp extract on alloxan monohydrate-induced <br>
+&emsp; &emsp; *Thesis*: Normoglycemic potential of *Citrus aurantifolia* (lime) pericarp extract on alloxan monohydrate-induced <br>
 &emsp; &emsp; &emsp; &emsp; diabetic Institute of Cancer Research (ICR) mice <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Agnes Salvadora
 
