@@ -17,7 +17,7 @@ layout: home
 }
 
 .right {
-  width: 200 px;
+  width: 100 px;
   padding-left: 5px;
 }
 </style>
@@ -134,6 +134,6 @@ synucleinopathy cases and controls. Neurasmus Annual Meeting 2023, Georg-August-
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; education)
 	</div>
 	<div class="column right">
-		<img src='/assets/rj-simando.jpg' width='200' align='left' />
+		<img src='/assets/rj-simando.jpg' width='100' align='left' />
 	</div>
 </div>
