@@ -85,11 +85,14 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 &emsp; **Year 2**: Vrije Universiteit Amsterdam (The Netherlands) &emsp; 2022-2023 <br>
 &emsp; &emsp; **Courses**: Advanced Clinical Neurosciences, Functional Brain Imaging, Neuro- and Psychopharmacology, <br>
 &emsp; &emsp; &emsp; &emsp; Experimental and Clinical Neuroendocrinology, Neurophilosophy and Ethics, and Career and Academic Skills and <br>
-&emsp; &emsp; &emsp; &emsp; Portfolio <br> 
+&emsp; &emsp; &emsp; &emsp; Portfolio (CASP) <br> 
 &emsp; &emsp; **Final Year Project/Thesis**: Localization and quantification of phosphorylated alphasynuclein in the skin of controls and <br> 
 &emsp; &emsp; &emsp; &emsp; synucleinopathy cases <br>
 &emsp; &emsp; &emsp; &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
-&emsp; &emsp; &emsp; &emsp; VU Supervisor: Dr. Wilma van de Berg
+&emsp; &emsp; &emsp; &emsp; VU Supervisor: Dr. Wilma van de Berg <br>
+&emsp; &emsp; **CASP Major Project**: Lectures on how to conduct health promotion and education activities on neuroscience-related themes <br> 
+&emsp; &emsp; &emsp; &emsp; for medical students (interns) <br> 
+&emsp; &emsp; &emsp; &emsp; *Topics*: Stroke, Dementia, Migraine, Depression, and Anxiety 
 
 &emsp; **Year 1**: Charité – Universitätsmedizin Berlin (Germany) &emsp; 2021-2022 <br>
 &emsp; &emsp; **Modules**: Nervous System: Structure, Function, and Development, Neurophysiology, Data and Statistics, <br>
