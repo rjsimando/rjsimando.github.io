@@ -13,7 +13,7 @@ permalink: /bio/
 &emsp; &emsp; *Courses*: Advanced Clinical Neurosciences, Functional Brain Imaging, Neuro- and Psychopharmacology, <br>
 &emsp; &emsp; &emsp; &emsp; Experimental and Clinical Neuroendocrinology, Neurophilosophy and Ethics, and Career and Academic Skills and <br>
 &emsp; &emsp; &emsp; &emsp; Portfolio (CASP) <br> 
-&emsp; &emsp; *Final Year Project/Thesis*: Localization and quantification of phosphorylated alphasynuclein in the skin of controls and <br> 
+&emsp; &emsp; *Final Year Project/Thesis*: Localization and quantification of phosphorylated alpha-synuclein in the skin of controls and <br> 
 &emsp; &emsp; &emsp; &emsp; synucleinopathy cases <br>
 &emsp; &emsp; &emsp; &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
 &emsp; &emsp; &emsp; &emsp; VU Supervisor: Dr. Wilma van de Berg <br>
