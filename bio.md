@@ -39,12 +39,12 @@ St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
 promotion and education projects and activities for the <br>
 &emsp; partner community
 
-**Medical Intern**, St. Luke’s Medical Center &emsp; Jun 2017-
-Jun 2018
+**Medical Intern**, St. Luke’s Medical Center &emsp; Jun 2017-Jun 2018
 
 **Student Researcher**, Research Management Office, St. Luke's Medical Center
-College of Medicine &emsp; May-Aug
-2015 <br>
+College of Medicine &emsp; May-Aug 2015 <br>
+&emsp; Submitted Research Abstract: Phytochemical profiling of water and ethanol extracts of lemongrass (*Cymbopogon citratus, stapf*). <br>
+&emsp; Association of Philippine Medical Colleges - Student Network (APMC-SN) 10th Medical Students’ Summit, Sept 2015 <br>
 &emsp; Mentor:  Prof. Maria Nilda M. Muñoz
 
 <br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **TRAINING COURSES**
@@ -102,7 +102,14 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 &emsp; &emsp; &emsp; &emsp; Supervisor: Dr. Stefan Mergler
 
 St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br>
-&emsp; **Doctor of Medicine** (*board certified*)
+&emsp; **Doctor of Medicine** <br>
+&emsp; &emsp; **Preventive and Community Medicine Research**: Comparison of the prevalence of depression between community-based and <br>
+&emsp; &emsp; &emsp; &emsp; institution-based elderly in Barangay Sampaloc, Tanay, Rizal. <br>
+&emsp; &emsp; &emsp; &emsp; Adviser: Dr. Ma. Lucila M. Perez <br>
+&emsp; &emsp; **Clinical Research**: Robot-Assisted Surgery Versus Conventional Laparoscopic Approach in Pelvic Conditions: <br>
+&emsp; &emsp; &emsp; &emsp; A Meta-Analysis <br>
+&emsp; &emsp; &emsp; &emsp; Adviser: Dr. Antonio D. Ligsay <br>
+&emsp; &emsp; *Board Certified* (March 2019), General Average Rating: 86.75% <br>
 
 Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
 &emsp; **B.S., Biology** <br>
