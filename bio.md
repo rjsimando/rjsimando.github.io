@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
-**Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’** &emsp; 2021-2023 <br>
+Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’ &emsp; 2021-2023 <br>
 &emsp; Coordinated by Université de Bordeaux <br>
 &emsp; *One of 18 students worldwide*
 
@@ -32,7 +32,7 @@ permalink: /bio/
 &emsp; &emsp; &emsp; &emsp; Supervisor: Dr. Stefan Mergler
 
 St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br>
-&emsp; **Doctor of Medicine** <br>
+&emsp; Doctor of Medicine <br>
 &emsp; &emsp; *Preventive and Community Medicine Research*: Comparison of the prevalence of depression between community-based and <br>
 &emsp; &emsp; &emsp; &emsp; institution-based elderly in Barangay Sampaloc, Tanay, Rizal <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Ma. Lucila M. Perez <br>
@@ -41,7 +41,7 @@ St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br
 &emsp; &emsp; Board Certified (March 2019), General Average Rating: 86.75% <br>
 
 Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
-&emsp; **B.S., Biology**, *magna cum laude* <br>
+&emsp; B.S., Biology, *magna cum laude* <br>
 &emsp; &emsp; *Thesis*: Normoglycemic potential of *Citrus aurantifolia* (lime) pericarp extract on alloxan monohydrate-induced <br>
 &emsp; &emsp; &emsp; &emsp; diabetic Institute of Cancer Research (ICR) mice <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Agnes Salvadora
