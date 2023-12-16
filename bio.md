@@ -68,7 +68,7 @@ Student Researcher, Research Management Office, St. Luke's Medical Center Colleg
 &emsp; Association of Philippine Medical Colleges - Student Network (APMC-SN) 10th Medical Students’ Summit, Sept 2015 <br>
 &emsp; Mentor:  Prof. Maria Nilda M. Muñoz
 
-<br> <i class="fa-solid fa-screwdriver-wrench"></i> &nbsp; **TECHNICAL EXPERIENCES**
+<br> <i class="fa-solid fa-screwdriver-wrench"></i> &nbsp; **TECHNICAL EXPERIENCE**
 
 *Lab Techniques*: Cell passaging/splitting, fluorescence calcium imaging, cell volume measurement <br> 
 &emsp; Tissue sectioning using microtome and cryostat, hematoxylin and eosin staining, immunostaining, <br> 
