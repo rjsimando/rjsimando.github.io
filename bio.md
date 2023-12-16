@@ -34,7 +34,7 @@ permalink: /bio/
 St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br>
 &emsp; **Doctor of Medicine** <br>
 &emsp; &emsp; *Preventive and Community Medicine Research*: Comparison of the prevalence of depression between community-based and <br>
-&emsp; &emsp; &emsp; &emsp; institution-based elderly in Barangay Sampaloc, Tanay, Rizal. <br>
+&emsp; &emsp; &emsp; &emsp; institution-based elderly in Barangay Sampaloc, Tanay, Rizal <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Ma. Lucila M. Perez <br>
 &emsp; &emsp; *Clinical Research*: Robot-Assisted Surgery Versus Conventional Laparoscopic Approach in Pelvic Conditions: A Meta-Analysis <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Antonio D. Ligsay <br>
