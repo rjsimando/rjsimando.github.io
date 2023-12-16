@@ -18,6 +18,7 @@ layout: home
 .right {
   width: 200px;
   padding-left: 10px;
+  text-align: right;
 }
 </style>
 
