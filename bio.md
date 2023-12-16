@@ -109,7 +109,7 @@ St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br
 &emsp; &emsp; **Clinical Research**: Robot-Assisted Surgery Versus Conventional Laparoscopic Approach in Pelvic Conditions: <br>
 &emsp; &emsp; &emsp; &emsp; A Meta-Analysis <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Antonio D. Ligsay <br>
-&emsp; &emsp; *Board Certified* (March 2019), General Average Rating: 86.75% <br>
+&emsp; &emsp; **Board Certified** (March 2019), General Average Rating: 86.75% <br>
 
 Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
 &emsp; **B.S., Biology** <br>
