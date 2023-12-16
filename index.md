@@ -18,7 +18,6 @@ layout: home
 .right {
   width: 200px;
   padding-left: 10px;
-  text-align: right;
 }
 </style>
 
@@ -27,6 +26,6 @@ layout: home
 
 	</div>
 	<div class="column right">
-		<img src='/assets/rj-simando.jpg' width='200' align='right' />
+		<img src='/assets/rj-simando.jpg' width='800' align='right' />
 	</div>
 </div>
