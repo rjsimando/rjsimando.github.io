@@ -100,7 +100,7 @@ Properties of the calcium signal in ocular cell types. Transient receptor potent
 &emsp; 1.5 hrs/week (6 sessions of lectures and journal club presentations) <br> 
 &emsp; Professor: Dr. Stefan Mergler, Charité – Universitätsmedizin Berlin
 
-<br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **RESEARCH PRESENTATION**
+<br> <i class="fa-solid fa-person-chalkboard"></i> &nbsp; **RESEARCH PRESENTATION**
 
 Localization of phosphorylated alpha-synuclein in the skin of clinically-diagnosed and neuropathologically-confirmed <br>
 synucleinopathy cases and controls. Neurasmus Annual Meeting 2023, Georg-August-Universität Göttingen, Germany, Jul 2023.
