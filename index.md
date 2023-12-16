@@ -4,27 +4,8 @@
 
 layout: home
 ---
-<style>
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-}
+![RJ Simando](/assets/rj-simando.jpg)
 
-.left {
-  width: 730 px;
-  text-align: left;
-  padding-right: 5px;
-}
-
-.right {
-  width: 100 px;
-  padding-left: 5px;
-}
-</style>
-
-<div class="row">
-	<div class="column left">
-		<p>
 <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
 Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’, coordinated by Université de Bordeaux (France) <br>
@@ -133,9 +114,3 @@ synucleinopathy cases and controls. Neurasmus Annual Meeting 2023, Georg-August-
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
 2009 &emsp; &emsp; &emsp; &emsp; Entrance Scholarship, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; education)
-		</p>
-	</div>
-	<div class="column right">
-		<img src='/assets/rj-simando.jpg' width='100' align='left' />
-	</div>
-</div>
