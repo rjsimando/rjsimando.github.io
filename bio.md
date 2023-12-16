@@ -103,8 +103,8 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 
 <br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **AWARDS & SCHOLARSHIP GRANTS**
 
-2021-2023 &emsp; **Erasmus Mundus Joint Master’s Degree Scholarship** (full scholarship – covers tuition fees, <br> 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; insurance, monthly allowance, contribution to travel, installation, and any other type of costs) <br>
+2021-2023 &emsp; &emsp; **Erasmus Mundus Joint Master’s Degree Scholarship** (full scholarship – covers tuition fees, <br> 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; insurance, monthly allowance, contribution to travel, installation, and any other type of costs) <br>
 2018 &emsp; &emsp; &emsp; &emsp; **Top 1 and Dean’s Lister, 5th year** – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
 2018 &emsp; &emsp; &emsp; &emsp; **Most Outstanding Medical Intern**, St. Luke’s Medical Center <br>
 2018 &emsp; &emsp; &emsp; &emsp; **Most Outstanding Intern in Internal Medicine**, St. Luke’s Medical Center <br>
