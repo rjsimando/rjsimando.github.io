@@ -35,7 +35,7 @@ Jan-Mar 2022 <br>
 Medicine, <br> 
 St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
 2019 <br>
-&emsp; Main Task: Supervise groups of medical interns with their health
+&emsp; **Main Task**: Supervise groups of medical interns with their health
 promotion and education projects and activities for the <br>
 &emsp; partner community
 
@@ -43,7 +43,7 @@ promotion and education projects and activities for the <br>
 
 **Student Researcher**, Research Management Office, St. Luke's Medical Center
 College of Medicine &emsp; May-Aug 2015 <br>
-&emsp; Submitted Abstract: Phytochemical profiling of water and ethanol extracts of lemongrass (*Cymbopogon citratus, stapf*). <br>
+&emsp; **Submitted Abstract**: Phytochemical profiling of water and ethanol extracts of lemongrass (*Cymbopogon citratus, stapf*). <br>
 &emsp; Association of Philippine Medical Colleges - Student Network (APMC-SN) 10th Medical Students’ Summit, Sept 2015 <br>
 &emsp; Mentor:  Prof. Maria Nilda M. Muñoz
 
