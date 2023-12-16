@@ -12,7 +12,7 @@ layout: home
 
 .left {
   width: 730px;
-  text-align: justify;
+  text-align: center;
 }
 
 .right {
@@ -26,6 +26,6 @@ layout: home
 
 	</div>
 	<div class="column right">
-		<img src='/assets/rj-simando.jpg' width='800' align='right' />
+		<img src='/assets/rj-simando.jpg' width='800' align='left' />
 	</div>
 </div>
