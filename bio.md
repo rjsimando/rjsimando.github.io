@@ -7,7 +7,7 @@ permalink: /bio/
 
 Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’ &emsp; 2021-2023 <br>
 &emsp; Coordinated by Université de Bordeaux <br>
-&emsp; *One of 18 students worldwide*
+&emsp; One of 18 students worldwide
 
 &emsp; *Year 2*: Vrije Universiteit Amsterdam (The Netherlands) &emsp; 2022-2023 <br>
 &emsp; &emsp; *Courses*: Advanced Clinical Neurosciences, Functional Brain Imaging, Neuro- and Psychopharmacology, <br>
@@ -48,32 +48,23 @@ Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
 
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
 
-*Lab Student/Intern*, Department of Anatomy and Neurosciences, Section of
-Clinical Neuroanatomy and Biobanking, <br> 
-Amsterdam UMC, Location VUmc &emsp; Mar-Aug
-2023 <br>
+Lab Student/Intern, Department of Anatomy and Neurosciences, Section of Clinical Neuroanatomy and Biobanking, <br> 
+Amsterdam UMC, Location VUmc &emsp; Mar-Aug 2023 <br>
 &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
 &emsp; VU Supervisor: Dr. Wilma van de Berg
 
-*Lab Student/Intern*, Study Group: In Vitro Electrophysiology/Ion Channel
-Research, Department of Ophthalmology, <br>
-Experimental Ophthalmology, Charité –
-Universitätsmedizin Berlin Campus Virchow-Klinikum &emsp; Feb 2023,
-Jan-Mar 2022 <br>
+Lab Student/Intern, Study Group: In Vitro Electrophysiology/Ion Channel Research, Department of Ophthalmology, <br>
+Experimental Ophthalmology, Charité – Universitätsmedizin Berlin Campus Virchow-Klinikum &emsp; Feb 2023, Jan-Mar 2022 <br>
 &emsp; Supervisor: Dr. Stefan Mergler
 
-*Community Program Physician*, Department of Preventive and Community
-Medicine, <br> 
-St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
-2019 <br>
-&emsp; *Main Task*: Supervise groups of medical interns with their health
-promotion and education projects and activities for the <br>
-&emsp; partner community
+Community Program Physician, Department of Preventive and Community Medicine, St. Luke's Medical Center College of Medicine <br> 
+&emsp; Jun-Sept 2019 <br>
+&emsp; *Main Task*: Supervise groups of medical interns with their health promotion and education projects and activities for <br>
+&emsp; the partner community
 
-*Medical Intern*, St. Luke’s Medical Center &emsp; Jun 2017-Jun 2018
+Medical Intern, St. Luke’s Medical Center &emsp; Jun 2017-Jun 2018
 
-*Student Researcher*, Research Management Office, St. Luke's Medical Center
-College of Medicine &emsp; May-Aug 2015 <br>
+Student Researcher, Research Management Office, St. Luke's Medical Center College of Medicine &emsp; May-Aug 2015 <br>
 &emsp; *Submitted Abstract*: Phytochemical profiling of water and ethanol extracts of lemongrass (*Cymbopogon citratus, stapf*). <br>
 &emsp; Association of Philippine Medical Colleges - Student Network (APMC-SN) 10th Medical Students’ Summit, Sept 2015 <br>
 &emsp; Mentor:  Prof. Maria Nilda M. Muñoz
@@ -84,8 +75,7 @@ College of Medicine &emsp; May-Aug 2015 <br>
 &emsp; Tissue sectioning using microtome and cryostat, hematoxylin and eosin staining, immunostaining, <br> 
 &emsp; brightfield and confocal microscopy <br>
 
-*Data Organizing, Graphing, and Statistical Tools*: Microsoft Office, TIDA, GraphPad Prism, SPSS,
-SigmaPlot <br>
+*Data Organizing, Graphing, and Statistical Tools*: Microsoft Office, TIDA, GraphPad Prism, SPSS, SigmaPlot <br>
 
 *Image Analysis/Processing*: QuPath, ImageJ/Fiji
 
@@ -105,20 +95,20 @@ synucleinopathy cases and controls. Neurasmus Annual Meeting 2023, Georg-August-
 
 <br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **AWARDS & SCHOLARSHIP GRANTS**
 
-2021-2023 &emsp; &emsp; *Erasmus Mundus Joint Master’s Degree Scholarship* (full scholarship – covers tuition fees, <br> 
+2021-2023 &emsp; &emsp; Erasmus Mundus Joint Master’s Degree Scholarship (full scholarship – covers tuition fees, <br> 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; insurance, monthly allowance, contribution to travel, installation, and any other type of costs) <br>
-2018 &emsp; &emsp; &emsp; &emsp; *Top 1 and Dean’s Lister, 5th year* – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
-2018 &emsp; &emsp; &emsp; &emsp; *Most Outstanding Medical Intern*, St. Luke’s Medical Center <br>
-2018 &emsp; &emsp; &emsp; &emsp; *Most Outstanding Intern in Internal Medicine*, St. Luke’s Medical Center <br>
-2018 &emsp; &emsp; &emsp; &emsp; *Most Outstanding Intern in Preventive and Community Medicine*, St. Luke’s Medical Center <br>
-2017 &emsp; &emsp; &emsp; &emsp; *Top 1 and Dean’s Lister, 4th year* – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
-2013 &emsp; &emsp; &emsp; &emsp; *Entrance Scholarship*, St. Luke’s Medical Center College of Medicine (full scholarship – covers tuition <br>
+2018 &emsp; &emsp; &emsp; &emsp; Top 1 and Dean’s Lister, 5th year–Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
+2018 &emsp; &emsp; &emsp; &emsp; Most Outstanding Medical Intern, St. Luke’s Medical Center <br>
+2018 &emsp; &emsp; &emsp; &emsp; Most Outstanding Intern in Internal Medicine, St. Luke’s Medical Center <br>
+2018 &emsp; &emsp; &emsp; &emsp; Most Outstanding Intern in Preventive and Community Medicine, St. Luke’s Medical Center <br>
+2017 &emsp; &emsp; &emsp; &emsp; Top 1 and Dean’s Lister, 4th year–Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
+2013 &emsp; &emsp; &emsp; &emsp; Entrance Scholarship, St. Luke’s Medical Center College of Medicine (full scholarship – covers tuition <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; during my first year in the M.D. program) <br>
-2013 &emsp; &emsp; &emsp; &emsp; *Magna cum laude* (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%), <br> 
+2013 &emsp; &emsp; &emsp; &emsp; Magna cum laude (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%), <br> 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Bachelor of Science in Biology, Ateneo de Naga University <br>
-2013 &emsp; &emsp; &emsp; &emsp; *Pillars Silver Medallion for Academic Excellence* (ranked 2nd out of 979 students of the graduating class of 2013) <br>
+2013 &emsp; &emsp; &emsp; &emsp; Pillars Silver Medallion for Academic Excellence (ranked 2nd out of 979 students of the graduating class of 2013) <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
-2013 &emsp; &emsp; &emsp; &emsp; *Distinction in Bachelor of Science in Biology* (based on academic achievement and service to the department) <br>
+2013 &emsp; &emsp; &emsp; &emsp; Distinction in Bachelor of Science in Biology (based on academic achievement and service to the department) <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
-2009 &emsp; &emsp; &emsp; &emsp; *Entrance Scholarship*, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology <br>
+2009 &emsp; &emsp; &emsp; &emsp; Entrance Scholarship, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; education)
