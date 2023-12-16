@@ -11,12 +11,12 @@ layout: home
 }
 
 .left {
-  width: 730px;
-  text-align: center;
+  width: 200 px;
+  text-align: justify;
 }
 
 .right {
-  width: 200px;
+  width: 730 px;
   padding-left: 10px;
 }
 </style>
