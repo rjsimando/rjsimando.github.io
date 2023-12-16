@@ -118,4 +118,5 @@ Transient receptor potential channels: Relevant for the clinic? &emsp; Apr-May
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
 2013 &emsp; &emsp; &emsp; &emsp; **Distinction in Bachelor of Science in Biology** (based on academic achievement and service to the department) <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
-2009 &emsp; &emsp; &emsp; &emsp; **Entrance Scholarship**, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology <br> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; education)
+2009 &emsp; &emsp; &emsp; &emsp; **Entrance Scholarship**, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology <br>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; education)
