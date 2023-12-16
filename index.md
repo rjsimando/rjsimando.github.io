@@ -4,7 +4,7 @@
 
 layout: home
 ---
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![RJ Simando](/assets/rj-simando.jpg)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![RJ Simando](/assets/rj-simando.jpg)
 
 <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
