@@ -80,13 +80,13 @@ College of Medicine &emsp; May-Aug 2015 <br>
 
 <br> <i class="fa-solid fa-screwdriver-wrench"></i> &nbsp; **TECHNICAL EXPERIENCES**
 
-*Lab Techniques*: Cell passaging/splitting, fluorescence calcium imaging, cell volume
-measurement <br> 
-&emsp; Tissue sectioning using microtome and cryostat,
-hematoxylin and eosin staining, immunostaining, <br> 
-&emsp; brightfield and confocal microscopy <br> 
+*Lab Techniques*: Cell passaging/splitting, fluorescence calcium imaging, cell volume measurement <br> 
+&emsp; Tissue sectioning using microtome and cryostat, hematoxylin and eosin staining, immunostaining, <br> 
+&emsp; brightfield and confocal microscopy <br>
+
 *Data Organizing, Graphing, and Statistical Tools*: Microsoft Office, TIDA, GraphPad Prism, SPSS,
 SigmaPlot <br>
+
 *Image Analysis/Processing*: QuPath, ImageJ/Fiji
 
 <br> <i class="fa-solid fa-earth-americas"></i> &nbsp; **TRAINING COURSES**
