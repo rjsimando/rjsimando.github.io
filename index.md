@@ -26,6 +26,6 @@ layout: home
 
 	</div>
 	<div class="column right">
-		<img src='/assets/rj-simando.jpg' width='800' align='left' />
+		<img src='/assets/rj-simando.jpg' width='400' align='left' />
 	</div>
 </div>
