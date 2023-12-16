@@ -5,8 +5,9 @@ permalink: /bio/
 ---
 <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
-**Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’** (one of 18 students worldwide) <br>
-&emsp; coordinated by Université de Bordeaux 
+**Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’** <br>
+&emsp; Coordinated by Université de Bordeaux <br>
+&emsp; *One of 18 students worldwide*
 
 &emsp; **Year 2**: Vrije Universiteit Amsterdam (The Netherlands) &emsp; 2022-2023 <br>
 &emsp; &emsp; **Courses**: Advanced Clinical Neurosciences, Functional Brain Imaging, Neuro- and Psychopharmacology, <br>
