@@ -36,8 +36,7 @@ St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br
 &emsp; &emsp; *Preventive and Community Medicine Research*: Comparison of the prevalence of depression between community-based and <br>
 &emsp; &emsp; &emsp; &emsp; institution-based elderly in Barangay Sampaloc, Tanay, Rizal. <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Ma. Lucila M. Perez <br>
-&emsp; &emsp; *Clinical Research*: Robot-Assisted Surgery Versus Conventional Laparoscopic Approach in Pelvic Conditions: <br>
-&emsp; &emsp; &emsp; &emsp; A Meta-Analysis <br>
+&emsp; &emsp; *Clinical Research*: Robot-Assisted Surgery Versus Conventional Laparoscopic Approach in Pelvic Conditions: A Meta-Analysis <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Antonio D. Ligsay <br>
 &emsp; &emsp; **Board Certified** (March 2019), General Average Rating: 86.75% <br>
 
