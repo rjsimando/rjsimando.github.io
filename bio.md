@@ -38,31 +38,31 @@ St. Luke's Medical Center College of Medicine (Philippines) &emsp; 2013-2018 <br
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Ma. Lucila M. Perez <br>
 &emsp; &emsp; *Clinical Research*: Robot-Assisted Surgery Versus Conventional Laparoscopic Approach in Pelvic Conditions: A Meta-Analysis <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Dr. Antonio D. Ligsay <br>
-&emsp; &emsp; **Board Certified** (March 2019), General Average Rating: 86.75% <br>
+&emsp; &emsp; Board Certified (March 2019), General Average Rating: 86.75% <br>
 
 Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
-&emsp; **B.S., Biology** <br>
+&emsp; **B.S., Biology**, *magna cum laude* <br>
 &emsp; &emsp; *Thesis*: Normoglycemic potential of *Citrus aurantifolia* (lime) pericarp extract on alloxan monohydrate-induced <br>
 &emsp; &emsp; &emsp; &emsp; diabetic Institute of Cancer Research (ICR) mice <br>
 &emsp; &emsp; &emsp; &emsp; Adviser: Agnes Salvadora
 
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
 
-**Lab Student/Intern**, Department of Anatomy and Neurosciences, Section of
+*Lab Student/Intern*, Department of Anatomy and Neurosciences, Section of
 Clinical Neuroanatomy and Biobanking, <br> 
 Amsterdam UMC, Location VUmc &emsp; Mar-Aug
 2023 <br>
 &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
 &emsp; VU Supervisor: Dr. Wilma van de Berg
 
-**Lab Student/Intern**, Study Group: In Vitro Electrophysiology/Ion Channel
+*Lab Student/Intern*, Study Group: In Vitro Electrophysiology/Ion Channel
 Research, Department of Ophthalmology, <br>
 Experimental Ophthalmology, Charité –
 Universitätsmedizin Berlin Campus Virchow-Klinikum &emsp; Feb 2023,
 Jan-Mar 2022 <br>
 &emsp; Supervisor: Dr. Stefan Mergler
 
-**Community Program Physician**, Department of Preventive and Community
+*Community Program Physician*, Department of Preventive and Community
 Medicine, <br> 
 St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
 2019 <br>
@@ -70,9 +70,9 @@ St. Luke's Medical Center College of Medicine &emsp; Jun-Sept
 promotion and education projects and activities for the <br>
 &emsp; partner community
 
-**Medical Intern**, St. Luke’s Medical Center &emsp; Jun 2017-Jun 2018
+*Medical Intern*, St. Luke’s Medical Center &emsp; Jun 2017-Jun 2018
 
-**Student Researcher**, Research Management Office, St. Luke's Medical Center
+*Student Researcher*, Research Management Office, St. Luke's Medical Center
 College of Medicine &emsp; May-Aug 2015 <br>
 &emsp; *Submitted Abstract*: Phytochemical profiling of water and ethanol extracts of lemongrass (*Cymbopogon citratus, stapf*). <br>
 &emsp; Association of Philippine Medical Colleges - Student Network (APMC-SN) 10th Medical Students’ Summit, Sept 2015 <br>
@@ -107,20 +107,20 @@ synucleinopathy cases and controls. Neurasmus Annual Meeting 2023, Georg-August-
 
 <br> <i class="fa-solid fa-sack-dollar"></i> &nbsp; **AWARDS & SCHOLARSHIP GRANTS**
 
-2021-2023 &emsp; &emsp; **Erasmus Mundus Joint Master’s Degree Scholarship** (full scholarship – covers tuition fees, <br> 
+2021-2023 &emsp; &emsp; *Erasmus Mundus Joint Master’s Degree Scholarship* (full scholarship – covers tuition fees, <br> 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; insurance, monthly allowance, contribution to travel, installation, and any other type of costs) <br>
-2018 &emsp; &emsp; &emsp; &emsp; **Top 1 and Dean’s Lister, 5th year** – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
-2018 &emsp; &emsp; &emsp; &emsp; **Most Outstanding Medical Intern**, St. Luke’s Medical Center <br>
-2018 &emsp; &emsp; &emsp; &emsp; **Most Outstanding Intern in Internal Medicine**, St. Luke’s Medical Center <br>
-2018 &emsp; &emsp; &emsp; &emsp; **Most Outstanding Intern in Preventive and Community Medicine**, St. Luke’s Medical Center <br>
-2017 &emsp; &emsp; &emsp; &emsp; **Top 1 and Dean’s Lister, 4th year** – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
-2013 &emsp; &emsp; &emsp; &emsp; **Entrance Scholarship**, St. Luke’s Medical Center College of Medicine (full scholarship – covers tuition <br>
+2018 &emsp; &emsp; &emsp; &emsp; *Top 1 and Dean’s Lister, 5th year* – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
+2018 &emsp; &emsp; &emsp; &emsp; *Most Outstanding Medical Intern*, St. Luke’s Medical Center <br>
+2018 &emsp; &emsp; &emsp; &emsp; *Most Outstanding Intern in Internal Medicine*, St. Luke’s Medical Center <br>
+2018 &emsp; &emsp; &emsp; &emsp; *Most Outstanding Intern in Preventive and Community Medicine*, St. Luke’s Medical Center <br>
+2017 &emsp; &emsp; &emsp; &emsp; *Top 1 and Dean’s Lister, 4th year* – Doctor of Medicine, St. Luke’s Medical Center College of Medicine <br>
+2013 &emsp; &emsp; &emsp; &emsp; *Entrance Scholarship*, St. Luke’s Medical Center College of Medicine (full scholarship – covers tuition <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; during my first year in the M.D. program) <br>
-2013 &emsp; &emsp; &emsp; &emsp; **Magna cum laude** (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%), <br> 
+2013 &emsp; &emsp; &emsp; &emsp; *Magna cum laude* (Quality Point Index: 3.82 out of 4.0; General Weighted Average: 95.78%), <br> 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Bachelor of Science in Biology, Ateneo de Naga University <br>
-2013 &emsp; &emsp; &emsp; &emsp; **Pillars Silver Medallion for Academic Excellence** (ranked 2nd out of 979 students of the graduating class of 2013) <br>
+2013 &emsp; &emsp; &emsp; &emsp; *Pillars Silver Medallion for Academic Excellence* (ranked 2nd out of 979 students of the graduating class of 2013) <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
-2013 &emsp; &emsp; &emsp; &emsp; **Distinction in Bachelor of Science in Biology** (based on academic achievement and service to the department) <br>
+2013 &emsp; &emsp; &emsp; &emsp; *Distinction in Bachelor of Science in Biology* (based on academic achievement and service to the department) <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Ateneo de Naga University <br>
-2009 &emsp; &emsp; &emsp; &emsp; **Entrance Scholarship**, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology <br>
+2009 &emsp; &emsp; &emsp; &emsp; *Entrance Scholarship*, Ateneo de Naga University (full scholarship – covers tuition for my entire B.S., Biology <br>
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; education)
