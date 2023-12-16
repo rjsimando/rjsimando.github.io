@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 <i class="fa-solid fa-graduation-cap"></i> &nbsp; **EDUCATION**
 
-**Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’** <br>
+**Erasmus Mundus Joint Master’s Degree in Neuroscience ‘Neurasmus’** &emsp; 2021-2023 <br>
 &emsp; Coordinated by Université de Bordeaux <br>
 &emsp; *One of 18 students worldwide*
 
