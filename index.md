@@ -50,6 +50,8 @@ Ateneo de Naga University (Philippines) &emsp; 2009-2013 <br>
 
 <br> <i class="fa-solid fa-briefcase"></i> &nbsp; **PROFESSIONAL EXPERIENCE**
 
+Faculty, Department of Biology, De La Salle University &emsp; Jan 2024-
+
 Lab Student/Intern, Department of Anatomy and Neurosciences, Section of Clinical Neuroanatomy and Biobanking, <br> 
 Amsterdam UMC, Location VUmc &emsp; Mar-Aug 2023 <br>
 &emsp; Daily Supervisors: Bram van der Gaag, Dr. Thecla van Wageningen <br>
@@ -58,6 +60,8 @@ Amsterdam UMC, Location VUmc &emsp; Mar-Aug 2023 <br>
 Lab Student/Intern, Study Group: In Vitro Electrophysiology/Ion Channel Research, Department of Ophthalmology, <br>
 Experimental Ophthalmology, Charité – Universitätsmedizin Berlin Campus Virchow-Klinikum &emsp; Feb 2023, Jan-Mar 2022 <br>
 &emsp; Supervisor: Dr. Stefan Mergler
+
+Medical Officer III, Department of Family and Community Medicine, Philippine General Hospital (PGH) &emsp; Jan 1–Jul 2, 2020
 
 Community Program Physician, Department of Preventive and Community Medicine, St. Luke's Medical Center College of Medicine <br> 
 &emsp; Jun-Sept 2019 <br>
